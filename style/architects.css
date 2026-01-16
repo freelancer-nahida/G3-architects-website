@@ -193,6 +193,15 @@ max-width:540px ;
 .sponsor-companies  img{
     filter: grayscale(100%);
 }
+footer{
+    margin: 100px  0;
+}
+.footer-p{
+  text-align: center;
+    max-width: 1440px;
+    margin: 0 auto;
+   padding: 38px 0;
+}
 /* responsive media query */
 
 @media screen  and (max-width: 576px){
